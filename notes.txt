@@ -1,0 +1,2 @@
+This is a new note.
+This is the second line.
