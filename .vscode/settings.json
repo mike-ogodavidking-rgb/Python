@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python-envs.pythonProjects": [
+        {
+            "path": "gpa_calculator.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
